@@ -1,0 +1,20 @@
+2023/03/26 15:48:29 [INFO] Main TestLog : start
+2023/03/26 15:48:29 [INFO] Main TestLog : message
+2023/03/26 15:48:29 [INFO] Main TestLog : message
+2023/03/26 15:48:29 [INFO] Main TestLog : message
+2023/03/26 15:48:29 [INFO] Main TestLog : message
+2023/03/26 15:48:29 [INFO] Main TestLog : message
+2023/03/26 15:48:29 [INFO] Main TestLog : message
+2023/03/26 15:48:29 [INFO] Main TestLog : message
+2023/03/26 15:48:29 [INFO] Main TestLog : message
+2023/03/26 15:48:29 [INFO] Main TestLog : message
+2023/03/26 15:48:29 [INFO] Main TestLog : message
+2023/03/26 15:48:29 [INFO] Main TestLog : message
+2023/03/26 15:48:29 [INFO] Main TestLog : message
+2023/03/26 15:48:29 [INFO] Main TestLog : message
+2023/03/26 15:48:29 [INFO] Main TestLog : message
+2023/03/26 15:48:29 [INFO] Main TestLog : message
+2023/03/26 15:48:29 [INFO] Main TestLog : end
+2023/03/26 15:49:06 [INFO] .cctor Batch_FileUpdate : start
+2023/03/26 15:49:10 [INFO] .cctor Batch_FileUpdate : Start CreateDataTable
+2023/03/26 15:49:10 [INFO] .cctor Batch_FileUpdate : End CreateDataTable

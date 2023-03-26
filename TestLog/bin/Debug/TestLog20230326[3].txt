@@ -1,0 +1,13 @@
+2023/03/26 14:50:04 [INFO] Main TestLog : message
+2023/03/26 14:50:23 [INFO] Main TestLog : message
+2023/03/26 14:50:35 [INFO] Main TestLog : message
+2023/03/26 14:50:35 [INFO] Main TestLog : message
+2023/03/26 14:50:35 [INFO] Main TestLog : message
+2023/03/26 14:50:35 [INFO] Main TestLog : message
+2023/03/26 14:50:35 [INFO] Main TestLog : message
+2023/03/26 14:50:35 [INFO] Main TestLog : message
+2023/03/26 14:50:35 [INFO] Main TestLog : message
+2023/03/26 14:50:35 [INFO] Main TestLog : message
+2023/03/26 14:50:35 [INFO] Main TestLog : message
+2023/03/26 14:50:35 [INFO] Main TestLog : message
+2023/03/26 14:50:35 [INFO] Main TestLog : end

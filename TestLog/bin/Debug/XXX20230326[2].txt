@@ -1,0 +1,15 @@
+2023/03/26 15:49:10 [INFO] .cctor Batch_FileUpdate : Start SplitePath
+2023/03/26 15:49:10 [INFO] .cctor Batch_FileUpdate : End SplitePath
+2023/03/26 15:49:10 [INFO] .cctor Batch_FileUpdate : Start CreateExcel
+2023/03/26 15:49:18 [INFO] .cctor Batch_FileUpdate : End
+2023/03/26 15:56:41 [INFO] .cctor Batch_FileUpdate : start
+2023/03/26 15:56:41 [INFO] .cctor Batch_FileUpdate : Start CreateDataTable
+2023/03/26 15:56:41 [INFO] .cctor Batch_FileUpdate : End CreateDataTable
+2023/03/26 15:56:41 [INFO] .cctor Batch_FileUpdate : Start SplitePath
+2023/03/26 15:56:41 [INFO] .cctor Batch_FileUpdate : End SplitePath
+2023/03/26 15:56:41 [INFO] .cctor Batch_FileUpdate : Start CreateExcel
+2023/03/26 15:57:14 [INFO] .cctor Batch_FileUpdate : End
+2023/03/26 15:57:23 [INFO] .cctor Batch_FileUpdate : start
+2023/03/26 15:57:23 [INFO] .cctor Batch_FileUpdate : Start CreateDataTable
+2023/03/26 15:57:23 [INFO] .cctor Batch_FileUpdate : End CreateDataTable
+2023/03/26 15:57:23 [INFO] .cctor Batch_FileUpdate : Start SplitePath

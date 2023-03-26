@@ -1,0 +1,6 @@
+C:\Users\MaMeaw\source\repos\TestLog\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\MaMeaw\source\repos\TestLog\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\MaMeaw\source\repos\TestLog\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\MaMeaw\source\repos\TestLog\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\MaMeaw\source\repos\TestLog\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\MaMeaw\source\repos\TestLog\ClassLibrary\obj\Debug\ClassLibrary.pdb
